@@ -1,13 +1,25 @@
-# RSA-Algorithm
+<div id="top"></div>
 
-### Reading these steps will help you to understand code better:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/skshamagarwal/Cryptography">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Asymmetric_encryption_%28colored%29.png" alt="Logo" height="120">
+  </a>
 
-- Choose two different Large Random Numbers i.e. p and q
-- Calculate RSA Modulus i.e. n = p*q
-- Calculate phi / fi which is equal to (p-1)*(q-1)
-- Choose e \(public key\) such that 1 \< e \< fi and e is co-prime to fi
-- Calculate d \(private key\) with the help of formula d = \(1 mod fi\) / e
+  <h3 align="center">Cryptography Algorithms</h3>
 
-To Encrypt Plain Text into Cypher Text, we used C = P^e mod n
-
-To Decrypt  Cypher Text into Plain Text, we used P = C^d mod n
+  <p align="center">
+    Implementation of various Algorithm used for Encryption!
+    <br />
+    <br />
+    <a href="https://github.com/skshamagarwal/Cryptography"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/skshamagarwal/Cryptography">View Live</a>
+    ·
+    <a href="https://github.com/skshamagarwal/Cryptography/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/skshamagarwal/Cryptography/issues">Request Feature</a>
+  </p>
+</div>
